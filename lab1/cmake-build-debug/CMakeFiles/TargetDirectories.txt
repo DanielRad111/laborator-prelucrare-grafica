@@ -1,0 +1,8 @@
+/Users/danielrad/Desktop/QZ/Coding/PG/lab1/cmake-build-debug/CMakeFiles/lab1.dir
+/Users/danielrad/Desktop/QZ/Coding/PG/lab1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/danielrad/Desktop/QZ/Coding/PG/lab1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/danielrad/Desktop/QZ/Coding/PG/lab1/cmake-build-debug/lib/CMakeFiles/edit_cache.dir
+/Users/danielrad/Desktop/QZ/Coding/PG/lab1/cmake-build-debug/lib/CMakeFiles/rebuild_cache.dir
+/Users/danielrad/Desktop/QZ/Coding/PG/lab1/cmake-build-debug/lib/glm/CMakeFiles/glm.dir
+/Users/danielrad/Desktop/QZ/Coding/PG/lab1/cmake-build-debug/lib/glm/CMakeFiles/edit_cache.dir
+/Users/danielrad/Desktop/QZ/Coding/PG/lab1/cmake-build-debug/lib/glm/CMakeFiles/rebuild_cache.dir
