@@ -1,0 +1,3 @@
+/Users/danielrad/Desktop/QZ/Coding/Facultate/PG/OpenGL/cmake-build-release/CMakeFiles/OpenGL.dir
+/Users/danielrad/Desktop/QZ/Coding/Facultate/PG/OpenGL/cmake-build-release/CMakeFiles/edit_cache.dir
+/Users/danielrad/Desktop/QZ/Coding/Facultate/PG/OpenGL/cmake-build-release/CMakeFiles/rebuild_cache.dir
