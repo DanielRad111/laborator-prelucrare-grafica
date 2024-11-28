@@ -1,0 +1,3 @@
+/Users/danielrad/Desktop/QZ/Coding/Facultate/PG/lab6/cmake-build-debug/CMakeFiles/lab6.dir
+/Users/danielrad/Desktop/QZ/Coding/Facultate/PG/lab6/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/danielrad/Desktop/QZ/Coding/Facultate/PG/lab6/cmake-build-debug/CMakeFiles/rebuild_cache.dir

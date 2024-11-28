@@ -1,0 +1,9 @@
+# ninja log v6
+1	387	1732184372965201933	CMakeFiles/lab8.dir/Camera.cpp.o	ef521f5f40e47dc0
+2	476	1732184372967012272	CMakeFiles/lab8.dir/stb_image.cpp.o	d4a17e6df49fba75
+2	956	1732184372966229681	CMakeFiles/lab8.dir/Shader.cpp.o	5427648a6cbd6961
+1	1051	1732184372965370842	CMakeFiles/lab8.dir/Mesh.cpp.o	5400e4669b864d69
+0	1103	1732184372964460339	CMakeFiles/lab8.dir/main.cpp.o	9cbe4c092d9c34db
+1	1225	1732184372965820656	CMakeFiles/lab8.dir/Model3D.cpp.o	f58bedd48d941709
+389	1522	1732184373353692498	CMakeFiles/lab8.dir/tiny_obj_loader.cpp.o	ac2c9840f95d9add
+1522	1646	1732184374486730488	lab8	223e55e6f6198cdb
